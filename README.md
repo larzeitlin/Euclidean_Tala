@@ -1,18 +1,6 @@
-# er2
+# Euclidean Tala 
 
-A Quil sketch designed to ... well, that part is up to you.
+A demo of using the  [Euclidean Algorithm](http://cgm.cs.mcgill.ca/~godfried/publications/banff.pdf) to generate music, with an added polyrythmic setting which, for me, sounds more like indian style rhythems, or [Tala](https://en.wikipedia.org/wiki/Tala).
 
-## Usage
 
-LightTable - open `core.clj` and press `Ctrl+Shift+Enter` to evaluate the file.
-
-Emacs - run cider, open `core.clj` and press `C-c C-k` to evaluate the file.
-
-REPL - run `(require 'er2.core)`.
-
-## License
-
-Copyright © 2016 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+![](ET.gif)
